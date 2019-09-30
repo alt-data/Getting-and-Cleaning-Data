@@ -1,0 +1,3 @@
+project for script
+uci har dataset has the data
+merge and tidydata has the combo output of 4
